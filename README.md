@@ -4,7 +4,5 @@ Você tambem pode me chamar de:
  - Doze
  - Lu
 
-Meus pronomes são ele/dele
-
 Eu sou relativamente experienciado com progamação, já tendo mexido com [lua](https://lua.org), C, C++ e [python](https://python.org). Eu não trabalhei em nenhum projeto grande ainda,
 Mas eu estou sempre procurando aprender coisas novas para um dia produzir meu "Magnum Opus".
