@@ -1,3 +1,0 @@
-oracle = {}
-
-return oracle
